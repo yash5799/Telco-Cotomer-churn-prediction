@@ -3,8 +3,8 @@ Context "Predict behavior to retain customers. You can analyze all relevant cust
 
 
 
-Content
-Each row represents a customer, each column contains customer’s attributes described on the column Metadata.
+Content :  
+  Each row represents a customer, each column contains customer’s attributes described on the column Metadata.
 
 
 
